@@ -28,7 +28,6 @@
   <img align="right" width= "250px" alt="Bow She-ra GIF" src="https://media3.giphy.com/media/j4pkNYz9KBVLYwwbog/giphy.gif?cid=790b7611a459fdeb505cdf151224009619597109adc7e1d1&rid=giphy.gif&ct=s">
     
  ![Snake animation](https://github.com/icarogarcez/icarogarcez/blob/output/github-contribution-grid-snake.svg)
-    
 </div>
   
   ##
