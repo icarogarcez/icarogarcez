@@ -2,6 +2,7 @@
 
 ##
 
+<img align="right" width= "100px" alt="Sapinho" src="https://media3.giphy.com/media/j4pkNYz9KBVLYwwbog/giphy.gif?cid=790b7611a459fdeb505cdf151224009619597109adc7e1d1&rid=giphy.gif&ct=s">
 🎡 Pronomes: ele/dele/o;
 <br>
 🚀 Recém formado pela Generation Brasil;
@@ -9,6 +10,8 @@
 📓 Estudando Java e Javascript;
 <br>
 ⚔ Escritor e desenhista nas horas vagas.
+
+##
 
 <div>
   <a href="https://github.com/icarogarcez">
@@ -25,10 +28,9 @@
   <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img align="right" width= "250px" alt="Bow She-ra GIF" src="https://media3.giphy.com/media/j4pkNYz9KBVLYwwbog/giphy.gif?cid=790b7611a459fdeb505cdf151224009619597109adc7e1d1&rid=giphy.gif&ct=s">
+
     
- ![Snake animation](https://github.com/icarogarcez/icarogarcez/blob/output/github-contribution-grid-snake.svg)
 </div>
   
-  ##
+  ![Snake animation](https://github.com/icarogarcez/icarogarcez/blob/output/github-contribution-grid-snake.svg)
 
