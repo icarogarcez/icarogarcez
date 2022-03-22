@@ -1,13 +1,13 @@
-### Alô! Eu sou o Ícaro e esse é meu perfil. Bem-vinde.
+### Alô! Eu sou o Ícaro Guilherme e esse é meu perfil. Bem-vinde.
 
 ##
 
 <img align="right" width= "100px" alt="Sapinho" src="https://media3.giphy.com/media/j4pkNYz9KBVLYwwbog/giphy.gif?cid=790b7611a459fdeb505cdf151224009619597109adc7e1d1&rid=giphy.gif&ct=s">
 🎡 Pronomes: ele/dele/o;
 <br>
-🚀 Recém formado pela Generation Brasil;
+🚀 Engenheiro de Software Júnior no Itaú Unibanco;
 <br>
-📓 Estudando Java e Javascript;
+📓 Atualmente estudando Arquitetura Orientada a Eventos, microsserviços e DDD;
 <br>
 ⚔ Escritor e desenhista nas horas vagas.
 
