@@ -7,7 +7,7 @@
 <br>
 🚀 Engenheiro de Software Júnior no Itaú Unibanco;
 <br>
-📓 Atualmente estudando Arquitetura Orientada a Eventos, microsserviços e DDD;
+📓 Atualmente estudando programação Android (principalmente com Java), microsserviços e kafka;
 <br>
 ⚔ Escritor e desenhista nas horas vagas.
 
