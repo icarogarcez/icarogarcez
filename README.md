@@ -1,4 +1,4 @@
-### Alô! Eu sou o Ícaro Guilherme e esse é meu perfil. Bem-vinde.
+### Alô! Eu sou o Ícaro e esse é meu perfil. Bem-vinde.
 
 ##
 
